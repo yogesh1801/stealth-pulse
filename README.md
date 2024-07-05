@@ -27,7 +27,7 @@ project_root/
     git clone https://github.com/yogesh1801/stealth-pulse.git
     cd stealth-pulse
     ```
-2. Create and activate a virtual environment(windows) - you will venv package to do so:
+2. Create and activate a virtual environment(windows) - you will need venv package to do so:
     ```sh
     python -m venv venv
     source venv/Scripts/activate

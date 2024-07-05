@@ -53,13 +53,13 @@ def process(input_file, output_dir):
             },
             size= 100)
 
-        results[f"query_{i}"] = res['hits']['hits']
+        results[f"query{i}"] = res['hits']['hits']
 
     print("queries done")
     
     os.makedirs(output_dir, exist_ok=True)
     for query_num, docs in results.items():
-        with open(f"{output_dir}/query{query_num}Results.txt", 'w', encoding='utf-8') as f:
+        with open(f"{output_dir}/{query_num}Results.txt", 'w', encoding='utf-8') as f:
             for doc in docs:
                 doc_id = doc['_id']
                 title = doc['_source']['title']
