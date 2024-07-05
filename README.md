@@ -15,7 +15,7 @@ project_root/
 │   └── elasticsearch.py
 ├── assessment_data.csv
 ├── queries.txt              
-├── results/                
+├── Results/                
 └── docker-compose.yml 
 └── requirements.txt
 ```

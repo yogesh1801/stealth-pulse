@@ -1,0 +1,100 @@
+111 Why Ollama is Good for Running LLMs on Computer 12.542109
+90 A leading ML educator on what you need to know about LLMs 11.3357315
+2152 Before there was Oppenheimer there was Vannevar Bush 11.121212
+21 5 Ways to Run LLMs Locally on a Computer 10.918962
+1466 Weekly Cybersecurity News 10.784856
+1211 About Me 9.818229
+1044 Llama 3: Everything you need to know about Meta’s latest LLM 9.41664
+199 What deep tech founders need to know about the Budget 9.318135
+2199 There is no hard takeoff 9.232289
+891 Does Social Media Impact How We Consume News? 9.231074
+874 Learning About NLP 9.138854
+1205 Exciting AI Developments and News: May 17, 2024 8.660265
+20 4 Gemini Models by Google that you Must Know About 8.240244
+824 The Noonification: AI, the New Gru (5/17/2024) 7.9837337
+1385 Revolutionizing Fitness: The Latest in Wearable Tracker Technology 7.896517
+1057 China’s CRISPR twins: A time line of news 7.6446056
+1940 Welcome to Tech Bhasha: Your Ultimate Destination for Tech News and Updates 7.6244426
+703 AI Startup Trends: Insights from Y Combinator’s Latest Batch 7.533244
+157 Ollama Tutorial: Running LLMs Locally Made Super Simple 7.4071655
+82 Controlling cloud costs: Where to start, and where to go from there 7.3222365
+476 To Make an Impact in Any Industry, Domain Knowledge Is Critical 7.3146772
+1340 Buy Latest Drop Shoulder Tshirt in India | PREMIUM Quality 2024 7.2806964
+742 How to get any Ethereum smart contract into BigQuery (in 8 mins) 7.249126
+803 Understanding Long RoPE in LLMs 7.22393
+1359 Quantization of LLMs: A Primer 7.22393
+1784 Integrating enterprise knowledge with LLMs 7.22393
+147 All About the AI Regulatory Landscape 7.183991
+200 Founder Institute ANZ reveals the 8 startups in its latest cohort ahead of Demo Day 7.135931
+786 The Next Step is Responsible AI. How Do We Get There? 7.1023164
+746  and educational institutions 7.036584
+2290 Notes on how to use LLMs in your product. 6.9679413
+283 A Beginner-Friendly Introduction to LLMs 6.886544
+580 A Beginner-Friendly Introduction to LLMs 6.886544
+806 A Beginner-Friendly Introduction to LLMs 6.886544
+113 10 Free Courses to Build AI Agents in 2024 6.8562922
+2252 Ways to think about AGI 6.827512
+2256 Who cares about tech regulation? 6.827512
+1694 A sit down with Bant Breen on the latest in energy transition. 6.758434
+466 Breaking boundaries in protein design with a new AI model that understands interactions with any… 6.594695
+805 The (lesser known) rising application of LLMs 6.580664
+1700 What were the main highlights on progress and limitations for agricultural spray drones at the 2023… 6.5367355
+1701 What were the main highlights on progress and limitations for agricultural spray drones at the 2023… 6.5367355
+1702 What were the main highlights on progress and limitations for agricultural spray drones at the 2023… 6.5367355
+2268 Ways to think about a metaverse 6.5063863
+1705 Is your marketing all about you? 6.4680414
+489 Reasoning About Uncertainty using Markov Chains 6.4317336
+3 Global Survey Shows 72% of Consumers Worry about Being Fooled by Deepfakes on Daily Basis 6.402521
+2063 Align LLMs with Reinforcement Learning from Human Feedback 6.3386526
+513 Enhancing NPS Measurement with LLMs and Statistical Inference 6.3019667
+1075 Pacific squid flashes its attack 'headlights' 6.2788267
+1404 Turning back the age clock: is there a way? A scientific study of the gut microbiome 6.2440314
+163 Everything You Need to Know About MLOps: A KDnuggets Tech Brief 6.193184
+589 All you should know about AB testing 6.144541
+802 Open-Source Models, Temperature Scaling, Re-Ranking, and More: Don’t Miss Our Latest LLM Must-Reads 6.1088743
+777 Fine Tuning LLMs on a Single Consumer Graphic Card 6.0468955
+95 It’s RAG time for LLMs that need a source of truth 6.009469
+1511 Everything You Need to Know About Kubernetes Microservices 5.915644
+1719 Are you unsure about Your Digital Marketing ROI? 5.915644
+1135 If you’re thinking about embracing AI: just jump in 5.7586284
+1281 Buckle Up! We’re Diving into Quantum-Resistant Encryption with Python! 5.753481
+1988 Is Your Cloud Data Secure? Don’t Forget About DLP! 5.7073855
+138 Short and Fun Courses to Get You Up to Speed About Generative AI 5.6915784
+2287 How should you adopt LLMs? 5.690066
+1897 Everything You Need To Know About Online Collaboration Tools 5.674693
+2165 TIOBE Index News (May 2024): Why is Fortran Popular Again? 5.6019063
+1115 A second 737 Max crash raises questions about airplane automation 5.5867777
+1142 The first study of a twin in space looks like good news for a trip to Mars 5.484793
+529 What ChatGPT Knows about You: OpenAI’s Journey Towards Data Privacy 5.3955255
+1714 Marketeers! We Need to Talk About First Party Data… (Part 1) 5.249176
+239 OpenAI winds down AI image generator that blew minds and forged friendships in 2022 5.238018
+1080 A Trial HIV Vaccine Triggered Elusive and Essential Antibodies in Humans 5.1914926
+275 Exploring LLMs for ICD Coding — Part 1 5.1261783
+350 Exploring LLMs for ICD Coding — Part 1 5.1261783
+792 How to Implement Knowledge Graphs and Large Language Models (LLMs) together at the Enterprise Level 5.1180997
+1732 Democratising Access to Justice with AI-Powered Chatbots: The Potential of LLMs for Legal Aid… 5.1180997
+982 TikTok gets real about artificial intelligence 5.101156
+2386 'Cloud Computing can Literally Be Incorporated in Any Business Domain' Says Bhavesh Goswami 5.0819397
+220 ESIC – why these four letters get angel investors excited and what founders need to know about them 5.0417733
+1061 We should gene-sequence cave paintings to find out more about who made them 4.995201
+833 The Music Giant Behind Beyoncé, Harry Styles and Adele Bars ChatGPT From Using Its Songs 4.908169
+1077 Show HN: I built a website to create financial models for any stock online 4.8949766
+2378 “New Technology Alone Won’t Deliver Any Business Outcome that You Intend” Says Ramesh Jampula 4.8949766
+276  4.8864636
+486 Grasping With Common Sense using VLMs and LLMs 4.8841667
+1127 Two rival AI approaches combine to let machines learn about the world like a child 4.867177
+1088 Thinking out loud about 2nd-gen email 4.8483925
+902 Skytree: data science in the hands of the masses 4.7965717
+903 A Practical Algorithm for Topic Modeling with Provable Guarantees 4.7965717
+904 What does it mean for a machine to think like a human? 4.7965717
+905 Big Data, Big Questions: How Does Political Conflict Affect The Economy? 4.7965717
+906 American Express Comes To CDS 4.7965717
+907 The $300K NYU Entrepreneurs Challenge 4.7965717
+908 IBM Comes to CDS 4.7965717
+909 New Student Interviews: Julie Helmers 4.7965717
+910 New Student Interviews: Zhanna Zhanabekova 4.7965717
+911 New Student Interviews: Eduardo Fierro Farah 4.7965717
+912 New Student Interviews: Maya Bidanda 4.7965717
+913 PwC Comes to CDS 4.7965717
+914 How Effective are Neural Networks for Object Recognition? 4.7965717
+915 How Can Data Collection Be Used to Map City Sounds? 4.7965717

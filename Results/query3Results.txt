@@ -1,0 +1,100 @@
+2234 What Is Blockchain? The Complete WIRED Guide 16.982912
+336 Data Science on Blockchain with R. Part III: Helium based IoT is taking the world 15.424434
+1997 Game-Changers: How Blockchain is Revolutionizing the Sports Industry 13.392653
+823 Casper Blockchain Lightning Fast dApp Deployment With The CSPR.build Suite 13.2961235
+340 Data Science on Blockchain with R. Part II: Tracking the NFTs 13.290023
+560 https://towardsdatascience.com/building-a-conversational-agent-with-memory-microservice-with-openai-and-fastapi-5d0102bc8df9?gi=0d82a22cef12&source=rss----7f60cf5620c9--microservices 12.737675
+2199 There is no hard takeoff 12.209173
+2178 What Is the Dark Web? 12.1271305
+2003 What Are Smart Contracts in Blockchain? A Friendly Guide to the Self-Executing Agreements 12.088568
+338 Exploring the NFT transaction with Neo4j 11.556984
+2334 https://www.wired.com/story/deaths-of-effective-altruism/ 11.458495
+731 What is a DAPP? 11.419945
+358 https://towardsdatascience.com/quantum-computing-for-complete-beginners-63b989ded053?gi=7a760ec2c345&source=rss----7f60cf5620c9--quantumcomputing 11.254961
+494 https://towardsdatascience.com/navigating-the-future-62ea60f27046?gi=4890fe967a59&source=rss----7f60cf5620c9--robotics 11.175388
+763 https://towardsdatascience.com/navigating-the-future-62ea60f27046?gi=87710bfb646b&source=rss----7f60cf5620c9--selfdrivingcars 11.175388
+1247 Advanced Gaming with HOPE on Blast Blockchain Technology 11.100934
+1922 https://medium.com/criteo-engineering/a-comprehensive-review-of-devoxxfr-2024-a52ca6b4b98e?source=rss------techconferences-5 10.978537
+337 Machine Learning on the Blockchain 10.951781
+2349 https://www.wired.com/story/2054-part-vi-standoff-at-arlington/ 10.803436
+2351 https://www.wired.com/story/2054-part-v-from-tokyo-with-love/ 10.799171
+2341 https://www.wired.com/story/how-pentagon-learned-targeted-ads-to-find-targets-and-vladimir-putin/ 10.7538185
+2245 What Is Genetic Testing? The Complete WIRED Guide 10.722392
+1184 The Future of Payments with DeFI: Can It Be A Reality? 10.699098
+2346 https://www.wired.com/story/shipping-industry-marina-hadjipateras/ 10.671036
+2526 Video: What is Product Management? 10.62055
+1415 Green Blockchain 10.617407
+2192 The World’s Computer 10.592334
+2196 Disrupt the Government 10.592334
+1322 https://rethunk.medium.com/audio-computer-more-promising-than-apple-vision-pro-uis-from-aui-to-zui-63ee5184b003?source=rss------augmentedreality-5 10.529653
+450 https://towardsdatascience.com/3dprint-ai-towards-open-source-large-scale-3dprinting-beyond-intelligence-1c692d0ac324?gi=6edae3991589&source=rss----7f60cf5620c9--3dprinting 10.517727
+1688 Blockchain in Real Estate 10.503219
+335 AI on the blockchain (it actually might just make sense) 10.484976
+2323 https://www.wired.com/story/i-went-undercover-secret-onlyfans-chatter-wasnt-pretty/ 10.388067
+2329 https://www.wired.com/story/women-antarctica-science-predators-whistleblower/ 10.293695
+1420 What Is Telecardiology? The Ultimate Guide Of 2024 10.280716
+443 https://towardsdatascience.com/raspberry-pi-gardening-monitoring-a-vegetable-garden-using-a-raspberry-pi-part-2-3d-printing-40471bd061dc?gi=57afed1407ef&source=rss----7f60cf5620c9--3dprinting 10.257395
+1998 Blockchain Oracles: Bridging External Data Sources with AI Smart Contracts 10.238445
+1418 https://medium.com/paradigm-research/gt-low-energy-process-for-high-performance-solar-cells-cdc20f3d8f47?source=rss------renewableenergy-5 10.130833
+1369 https://medium.com/paradigm-research/nt-researchers-unzip-2d-materials-with-lasers-cf6f8685ddcc?source=rss------nanotechnology-5 10.100187
+2191 Where the Bitter Lesson ends 10.092138
+1945 What is the Top 10 Software Development Company in the USA 9.97394
+741 Blockchain Technology Ensuring Data Security & Immutability 9.909386
+2136 What Is Single Touch Payroll (STP) and How It Works? 9.873424
+271 What is crypto data? 9.8226595
+970 OpenAI Spring Update live coverage 9.781715
+357  the TOFFOLI gate utilizes an 8x8 orthogonal matrix for operations on three input qubits. Like CNOT 9.745402
+2247 https://www.wired.com/story/cyberwar-guide/ 9.712149
+698  there needs to be a strong collaboration between the legal profession and developers of the algorithms. When the judicial system starts using computer programs as an aid for sentencing 9.673421
+709 Data is an asset. What is its value? 9.624399
+2326 https://www.wired.com/story/delorean-showdown/ 9.604204
+1971 hat is Information Tecnology What is Information Technology Security? 9.542435
+2331 https://www.wired.com/story/faruk-ozer-turkey-crypto-fraud/ 9.527229
+1309 What is a Jammer Device? 9.398121
+2193 Cruise 9.265158
+2194 Tech Heroin 9.265158
+1246 The Advantages of HOPE on Blast Blockchain Technology for Developers 9.234359
+112 Kunal Shah Says ‘GPT Makes Him 10x More Efficient in Sharing Ideas with the Team’ 9.212287
+2195 Imitation Learning 9.205461
+2198 p(doom) 9.205461
+1638 What is the plan followed by Opus Technologies on API Ecosystem Strategy? 9.167477
+2197 Three Class Society 9.149312
+1093 https://www.lesswrong.com/posts/RWu8eZqbwgB9zaerh/third-time-a-better-way-to-work 9.145876
+2168 OpenAI Spring Update: Next Flagship Model Is the ‘Natively Multimodal’ GPT-4o 9.118121
+1245 Maximizing Gaming Performance with HOPE on Blast Blockchain Technology 9.108337
+2200 A Really Big Computer 9.096405
+1140 The first DDoS attack was 20 years ago. This is what we’ve learned since. 9.025739
+1967 What is Data Architecture & Why its important for organizations? 9.009057
+1200 What is RegTech? Regulatory Technology Explained 8.96044
+339 The data behind the NFT hype 8.894108
+2244 What's an Influencer? The Complete WIRED Guide 8.864457
+2338 https://www.wired.com/story/inside-reddit-protest-ipo/ 8.834377
+247 Ars Frontiers is here: Come (virtually) hang out with the experts 8.78564
+1182 Web3 - The Next Phase of the Internet Revolution 8.770343
+1084 https://worksinprogress.co/issue/the-beauty-of-concrete/ 8.726882
+596 https://towardsdatascience.com/building-ai-products-with-a-holistic-mental-model-33f8729e3ad9?gi=24257bec9baa&source=rss----7f60cf5620c9--uxdesign 8.716086
+15 https://www.analyticsvidhya.com/blog/2024/05/sequence-to-sequence-models-for-language-translation/ 8.707413
+1305 What is 3CC? (3 Component Carrier Aggregation) 8.611833
+1097 https://crystalverse.com/sodium-chloride-crystals/ 8.590189
+1790 https://mark-bridges.medium.com/chief-strategy-officer-cso-101-strategic-questions-to-consider-in-2024-part-14-c8d9dd1780f3?source=rss------corporateinnovation-5 8.353532
+1640 How will digital payments influence businesses and what is their importance in the coming years 8.341483
+2081 https://seandearnaley.medium.com/elevating-sentiment-analysis-ad02a316df1d?source=rss------llm-5 8.315855
+2035 Shifting Gears: Fuel DAO’s Blockchain Engine for a Sustainable Ride-Sharing Future 8.237643
+1179 DePioneers Airdrop : The First-Ever Hybrid DePIN DAO NFT 8.135503
+114 ChatGPT Brings Data to Life With Interactive Charts and Tables Directly from Google Drive and Microsoft OneDrive 8.091202
+122 Intel is Bullish on India with its Xeon Processors 8.069394
+2246 What Is Cyberwar? The Complete WIRED Guide 8.011948
+1374 Why is biotech in the early stage of recovery with the resurgence of interest rate cuts? 7.9991384
+1780 How to work with startup ideas. And what are the sources for finding good ones? 7.978785
+2004 Solidity Analyzer: Revolutionizing Smart Contract Security with Online Analysis 7.924754
+1202 What is a Payment Aggregator and How Does It Work? 7.8666024
+1887 What is a Virtual Meeting? 2024 Remote & Hybrid Guide | Reclaim 7.8666024
+1060 What if you could diagnose diseases with a tampon? 7.811771
+280 https://towardsdatascience.com/recreating-pytorch-from-scratch-with-gpu-support-and-automatic-differentiation-8f565122a3cc?gi=4fab4ee6f497&source=rss----7f60cf5620c9--deeplearning 7.7949963
+2388 'Cryptocurrency is Not the Sole Factor in the Indian Blockchain Industry' Says Om Malviya 7.691192
+1181 How I make $1000/DAY on Uniswap Using Personalized Trading Bot 7.6687274
+1044 Llama 3: Everything you need to know about Meta’s latest LLM 7.6574235
+1532 What is Cloud Computing? Everything You Need to Know | Connect Infosoft 7.6479506
+2054 What Is Data Quality Management (DQM): Importance, Framework, Challenges and more 7.6479506
+2231 What Is Quantum Computing? The Complete WIRED Guide 7.633697
+2239 What Is Net Neutrality? The Complete WIRED Guide 7.633697
