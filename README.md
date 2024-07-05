@@ -17,6 +17,7 @@ project_root/
 ├── queries.txt              
 ├── results/                
 └── docker-compose.yml 
+└── requirements.txt
 ```
 
 ## Setup
